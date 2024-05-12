@@ -1,0 +1,2 @@
+Hola a todos , si pueden leer esto quiere decir que funciono !!
+cree el archivo de texto y lo hize solo con el comando la cree local y luego la envie al repositorio creado sin readme.md
